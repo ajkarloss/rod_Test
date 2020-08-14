@@ -13,6 +13,7 @@
    :caption: Saga
 
    Page1/Page1.rst
+   Page1/mdTest.md
  
 .. toctree::
    :maxdepth: 2
